@@ -1,0 +1,50 @@
+.header{
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 60px auto;
+}
+strong{
+    text-transform: uppercase;
+}
+.section{
+    padding: 30px;
+}
+.form-header{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.form{
+    border: 5px solid blue;
+    padding: 30px 20px;
+}
+.form-btn{
+    margin: 12px auto;
+}
+.form input{
+    margin: 12px auto;
+    height: 50px;
+
+}
+.section-header{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    font-style: Tahoma;
+}
+img{
+    height: 70px;
+    width: 70px;
+}
+.feature{
+    margin-top: 60px;
+}
+.feature p{
+    margin-top: 20px;
+}
+form button{
+    width: 100%;
+}
+.btn-feature{
+    margin-top: 50px;
+}
